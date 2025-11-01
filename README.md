@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chirag B J</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Chirag B J</h1>
+<h3 align="center">I am a passionate and dedicated Bachelor of Computer Science student at KLE's Society Degree College with an expected graduation in 2026. An aspiring software developer passionate about problem-solving, I am a proactive learner, constantly honing my skills through personal projects and a growing list of professional certifications. I am eager to apply my academic knowledge and technical skills to solve real-world problems.</h3>
 
 - 🌱 I’m currently learning **AI,ML**
 
