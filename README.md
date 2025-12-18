@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **AI,ML**
 
-- 👨‍💻 All of my projects are available at [https://chirag-bj-portfolio.onrender.com/](https://chirag-bj-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://chirag-bj-portfolio.onrender.com/](https://chiragbj.vercel.app/)
 
 - 📫 How to reach me **chiragbj8@gmail.com**
 
-- 📄 Know about my experiences [https://chirag-bj-portfolio.onrender.com/](https://chirag-bj-portfolio.onrender.com/)
+- 📄 Know about my experiences [https://chirag-bj-portfolio.onrender.com/](https://chiragbj.vercel.app/)
 
 - ⚡ Fun fact **I am a fan of anime**
 
