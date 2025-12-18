@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI,ML**
 
-- 👨‍💻 All of my projects are available at [https://chiragbj.vercel.app/](https://chiragbj.vercel.app/)
+- 👨‍💻 some of my projects are available at [https://chiragbj.vercel.app/](https://chiragbj.vercel.app/)
 
 - 📫 How to reach me **chiragbj8@gmail.com**
 
