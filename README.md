@@ -46,14 +46,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
-<img align="center" src="https://github-stats-extended.vercel.app/api?username=Phionephione&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Phionephione's GitHub stats" />
-</p>
-
-<p align="left">
-<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Phionephione&theme=dark&hide_border=false" alt="Phionephione's streak stats" />
-</p>
 
 <p align="left">
 <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Phionephione&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Phionephione's top languages" />
